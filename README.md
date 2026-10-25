@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Chamod Sachintha 👋
 
-<!--
-**xchamod50/xchamod50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT undergraduate at **SLIIT** (BSc Hons in Information Technology).
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+- **Languages:** Java, SQL, HTML, CSS
+- **Frameworks & Tools:** Spring Boot, Maven, Git, GitHub, Joomla
+- **Learning:** Cybersecurity, Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Vehicle Rental Management System** — Team project (Spring Boot, Maven, JSP). I built the User Management module.
+
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/chamodsachintha](https://www.linkedin.com/in/chamodsachintha)
+- Photography: [Chamod Sachintha Photography](https://www.facebook.com/share/1CkyMugxaZ/)
